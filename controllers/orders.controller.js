@@ -1,5 +1,5 @@
 const stripe = require('stripe')(
-  'NEW_sk_test_51T0HEb0ZNa0MReHmwjx0PVf0mjuTdadaJbJBhW9Ku1ruKKyQVuDgdVJh25SUeJqAuWu1OSdsEjEVWCCykwgBa300rq2XWmV1',
+  ${KEY},
 );
 
 const Order = require('../models/order.model');
