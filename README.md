@@ -1,2 +1,2 @@
 ## General info
-- Mongodb database is used
+- Test project for educational purposes
